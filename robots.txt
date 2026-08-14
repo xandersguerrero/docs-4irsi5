@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bglp8x.hartawin.online/sitemap.xml
